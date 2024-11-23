@@ -4,7 +4,7 @@
   "description": "![](./screenshot.png)",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_OPTIONS=--openssl-legacy-provider webpack serve",
+    "start": "webpack serve",
     "production": "webpack --mode production"
   },
   "keywords": [],
